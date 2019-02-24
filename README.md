@@ -1,2 +1,2 @@
-# progressive-web-app-shell
-A boilerplate PWA shell.
+# PWA Shell
+A boilerplate shell for progressive web apps.
